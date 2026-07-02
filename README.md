@@ -27,9 +27,6 @@ El sistema simula la gestión de pedidos de un local gastronómico. Permite:
 » Consultar estadísticas de ventas: total vendido, comida más vendida y
 cantidad de pedidos realizados.
 
-El programa se ejecuta íntegramente por consola y está organizado en
-módulos, cada uno a cargo de una parte del sistema:
-
 # **Instrucciones de ejecución**
 Requisitos previso: Tener instalado Python 3.10 o superior.
  1. **Clonar el repositorio:**
