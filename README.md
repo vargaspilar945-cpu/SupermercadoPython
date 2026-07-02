@@ -30,21 +30,21 @@ módulos, cada uno a cargo de una parte del sistema:
 Requisitos previso: Tener instalado Python 3.10 o superior.
  1. **Clonar el repositorio:**
 
-
-   git clone [URL del repositorio]
-
+ ```bash
+   git clone [https://github.com/vargaspilar945-cpu/Caja-Express]
+ ```
 
 2. **Ubicarse en la carpeta del proyecto:**
 
-
-   cd nombre-del-proyecto
-
+ ```bash
+   cd Caja-Express
+ ```
 
 3. **Ejecutar el archivo principal:**
 
-
+```bash
    python menu_principal.py
-
+```
 
 4. **Seguir las opciones que muestra el menú por consola.**
 5. **¡Listo!** La aplicación estará lista para usarse.
