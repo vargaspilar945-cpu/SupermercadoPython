@@ -1,3 +1,3 @@
-# SupermercadoPython
+# CajaExpress
 # Trabajo Final - Gestión de Supermercado  Integrantes: Abril Nahir LORINCZ - Larisa Selene OCAMPO - Brisa Alanis RODRIGUEZ - Gisela Mabel SOLOAGA - Pilar Agostina VARGAS  Comisión: Comisión 3.  
 Sistema de gestión de pedidos para un local gastronómico desarrollado en Python. Permite al cliente visualizar el menú de productos organizados por categoría, seleccionar items y armar un pedido, aplicar descuentos y promociones, calcular el total según el medio de pago elegido, y consultar estadísticas de ventas del día. El sistema se ejecuta por consola e incluye validaciones de datos y manejo de errores.
