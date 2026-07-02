@@ -49,3 +49,10 @@ Requisitos previso: Tener instalado Python 3.10 o superior.
 
 4. **Seguir las opciones que muestra el menú por consola.**
 5. **¡Listo!** La aplicación estará lista para usarse.
+
+##**Nota**
+
+El sistema fue desarrollado de forma colaborativa, utilizando commits
+periódicos para reflejar el avance de cada módulo.
+Se utilizaron estructuras condicionales, repetitivas, funciones,
+validaciones de datos y manejo básico de errores.
