@@ -51,3 +51,15 @@ El sistema fue desarrollado de forma colaborativa, utilizando commits
 periódicos para reflejar el avance de cada módulo.
 Se utilizaron estructuras condicionales, repetitivas, funciones,
 validaciones de datos y manejo básico de errores.
+
+#  Uso de Inteligencia Artificial
+Durante el desarrollo de este proyecto utilizamos Claude (Anthropic) como herramienta de apoyo.
+La IA fue utilizada para:
+
+-Proponer la estructura inicial del código de cada módulo
+-Resolver dudas sobre sintaxis de Python
+-Analizar y corregir errores durante el desarrollo
+-Unificar los módulos desarrollados por cada integrante en un único archivo funcional (sistema_pedidos.py)
+-Asistir en la depuración del sistema
+
+Todos los integrantes del grupo revisamos, comprendemos y podemos explicar el código generado. Las soluciones propuestas por la IA fueron analizadas, adaptadas y validadas por el equipo antes de incorporarlas al proyecto.
