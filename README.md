@@ -1,8 +1,8 @@
-#Sistema de Pedidos de Comida: Caja Express
+# Sistema de Pedidos de Comida: Caja Express
 
 Trabajo Final Integrador - Python - AED
 
-#Integrantes del grupo
+# Integrantes del grupo
 
 - Abril Nahir LORINCZ
 - Larisa Selene OCAMPO 
@@ -45,7 +45,7 @@ Requisitos previso: Tener instalado Python 3.10 o superior.
 4. **Seguir las opciones que muestra el menú por consola.**
 5. **¡Listo!** La aplicación estará lista para usarse.
 
-##**Nota**
+## **Nota**
 
 El sistema fue desarrollado de forma colaborativa, utilizando commits
 periódicos para reflejar el avance de cada módulo.
