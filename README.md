@@ -63,3 +63,17 @@ La IA fue utilizada para:
 -Asistir en la depuración del sistema
 
 Todos los integrantes del grupo revisamos, comprendemos y podemos explicar el código generado. Las soluciones propuestas por la IA fueron analizadas, adaptadas y validadas por el equipo antes de incorporarlas al proyecto.
+## ¿Cómo ejecutar el sistema?
+
+1. Clonar el repositorio
+2. Abrir una terminal en la carpeta del proyecto
+3. Ejecutar el archivo principal:
+   python "Caja-Express_Código_Completo.py"
+
+## Estructura del proyecto
+
+- `Caja-Express_Código_Completo.py` — sistema integrado completo
+- `Menú principal e interfaz 1.py` — módulo 1: menú principal
+- `carrito.py` — módulo 3: gestión del carrito
+- `compra_final.py` — módulo 4: compra final (descuentos, pago, ticket)
+- `5.estadisticas.py` — módulo 5: estadísticas de ventas
